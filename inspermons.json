@@ -1,0 +1,74 @@
+[
+	{
+		"nome" : "picaxu",
+		"poder" : 20,
+		"vida" : 200,
+		"defesa" : 12
+	},
+	{
+		"nome" : "xamando",
+		"poder" : 25,
+		"vida" : 100,
+		"defesa" : 10
+	},
+	{
+		"nome" : "pidijet",
+		"poder" : 15,
+		"vida" : 300,
+		"defesa" : 10
+	},
+	{
+		"nome" : "davidzete",
+		"poder" : 12,
+		"vida" : 250,
+		"defesa" : 11
+	},
+	{
+		"nome" : "Ester",
+		"poder" : 13,
+		"vida" : 150,
+		"defesa" : 9
+	},
+	{
+		"nome" : "Geric",
+		"poder" : 11,
+		"vida" : 275,
+		"defesa" : 12
+	},
+	{
+		"nome" : "Renats",
+		"poder" : 13,
+		"vida" : 280,
+		"defesa" : 8
+	},
+	{
+		"nome" : "Etheus",
+		"poder" : 12,
+		"vida" : 310,
+		"defesa" : 9
+	},
+	{
+		"nome" : "Geric",
+		"poder" : 11,
+		"vida" : 275,
+		"defesa" : 12
+	},
+	{
+		"nome" : "Spimone",
+		"poder" : 12,
+		"vida" : 305,
+		"defesa" : 10
+	},
+		{
+		"nome" : "PeRo",
+		"poder" : 14,
+		"vida" : 283,
+		"defesa" : 11
+	},
+		{
+		"nome" : "Amina",
+		"poder" : 9,
+		"vida" : 175,
+		"defesa" : 13
+	}
+]
