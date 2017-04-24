@@ -48,9 +48,9 @@
 		"defesa" : 9
 	},
 	{
-		"nome" : "Geric",
-		"poder" : 11,
-		"vida" : 275,
+		"nome" : "LOV",
+		"poder" : 12,
+		"vida" : 285,
 		"defesa" : 12
 	},
 	{
@@ -59,16 +59,64 @@
 		"vida" : 305,
 		"defesa" : 10
 	},
-		{
+	{
 		"nome" : "PeRo",
 		"poder" : 14,
 		"vida" : 283,
 		"defesa" : 11
 	},
-		{
+	{
 		"nome" : "Amina",
 		"poder" : 9,
 		"vida" : 175,
 		"defesa" : 13
+	},
+	{
+		"nome" : "Cavans",
+		"poder" : 11,
+		"vida" : 169,
+		"defesa" : 12
+	},
+	{
+		"nome" : "Jasey",
+		"poder" : 11,
+		"vida" : 215,
+		"defesa" : 12
+	},
+	{
+		"nome" : "Carrot",
+		"poder" : 14,
+		"vida" : 234,
+		"defesa" : 11
+	},
+	{
+		"nome" : "Peanut",
+		"poder" : 15,
+		"vida" : 301,
+		"defesa" : 10
+	},
+	{
+		"nome" : "Floren",
+		"poder" : 20,
+		"vida" : 200,
+		"defesa" : 13
+	},
+	{
+		"nome" : "Vitch",
+		"poder" : 13,
+		"vida" : 253,
+		"defesa" : 12
+	},
+	{
+		"nome" : "Fishb",
+		"poder" : 14,
+		"vida" : 305,
+		"defesa" : 12
+	},
+	{
+		"nome" : "kokim",
+		"poder" : 20,
+		"vida" : 301,
+		"defesa" : 15
 	}
 ]
